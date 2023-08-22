@@ -8,3 +8,5 @@ TrainFoodClass.m - saves the net, classifier details in .mat files. Input databa
 
 PredictFoodClass.m - Prediction of Food class for single/multiple test images. The input images is expected to be present in ./tst directory
 
+run the TrainFoodClass to generate net.mat
+
